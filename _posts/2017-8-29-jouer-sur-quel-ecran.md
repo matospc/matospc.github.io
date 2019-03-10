@@ -7,13 +7,21 @@ tags: [ecran, jeu, hd, 1080p, 1440p, config, 4k, uhd, tearing, g-sync, gsync, fr
 
 Définir un budget, c’est surtout choisir un affichage. Jouer sur un timbre poste ou sur le mur entier de votre manoir n’aura pas les mêmes exigences de puissance. À chaque écran, sa carte graphique.
 
-![](/assets/images/articles/2017/ecran/sean-do-782269-unsplash.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2017/ecran/sean-do-782269-unsplash.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2017/ecran/sean-do-782269-unsplash.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2017/ecran/sean-do-782269-unsplash.jpg" alt="Illustration gaming">
+</picture>
 
 Quand on choisit un affichage, on regarde principalement deux choses :
 
  * la **définition**, indiquée avec le nombre de pixels en largeur et en hauteur, souvent abrégée sous d’autres noms (1080p, 1440p, Full HD, 4K[^1], etc.). La taille d’un écran est généralement proportionnelle à sa définition (de 22″ en 1080p à 30″ en UHD). Voici quelques exemples visuels (et un [lien vers l’article Wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9finition_d%27%C3%A9cran), qui contient un diagramme exhaustif) :
 
-![Résolutions](/assets/images/articles/2017/ecran/wide-resolutions.png)
+<picture>
+  <source srcset="/assets/images/articles/2017/ecran/wide-resolutions.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2017/ecran/wide-resolutions.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2017/ecran/wide-resolutions.jpg" alt="Résolutions">
+</picture>
 
  * la **fréquence**, indiquée en hertz (nombre d’images affichées par seconde). On observe généralement deux gammes : 60Hz pour les écrans normaux et au dessus de 100Hz pour des écrans gamer (120, 144, 165, etc.).
 
@@ -33,8 +41,11 @@ Il y a presque 10 ans, Nvidia a dévoilé ses lunettes pour jouer en 3D, qui né
 
 On trouve des écrans haute fréquence 1080p à partir de 250€. Sans viser le grand luxe, notre budget gonfle déjà de manière conséquente, car ce n’est pas seulement sur l’écran qu’il faudra augmenter la facture. Pour un écran de même taille, il nous faut au moins deux fois plus de puissance pour jouer dans des conditions idéales. Bien évidemment, la différence de confort entre (par exemple) 30 et 60 images par seconde ou entre 90 et 140 est beaucoup moins flagrante mais, quitte à investir dans un bon écran, autant lui fournir toute la puissance nécessaire.
 
-![Asus ROG Swift 27"](/assets/images/articles/2017/ecran/asus-rog.jpg)
-
+<picture>
+  <source srcset="/assets/images/articles/2017/ecran/asus-rog.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2017/ecran/asus-rog.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2017/ecran/asus-rog.jpg" alt="Asus ROG Swift 27">
+</picture>
 
 # Config grand luxe
 
@@ -42,7 +53,12 @@ Dans le haut du panier se disputent deux approches : il faudra choisir entre dé
 
 Il s’agit vraiment d’une préférence personnelle et du genre de jeux auxquels vous jouez le plus. Si vous adorez les jeux de tir ou les jeux nerveux de manière générale, un gain de fluidité peut représenter un réel gain de confort. Si vous êtes plus jeux à la troisième personne avec de beaux paysages (Tomb Raider, par exemple), un écran UHD peut se justifier. Pour les films aussi, ça peut être un bon choix mais, s’il s’agit de votre motivation principale, il vaudra mieux investir dans une télévision.
 
-![Rise of the Tomb Raider](/assets/images/articles/2017/ecran/rise-tomb-raider.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2017/ecran/rise-tomb-raider.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2017/ecran/rise-tomb-raider.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2017/ecran/rise-tomb-raider.jpg" alt="Rise of the Tomb Raider">
+</picture>
+
 
 En terme de puissance, que ce soit pour jouer en 1440p @ 144Hz ou en 2160p @ 60Hz, si on regarde seulement les chiffres, on se retrouve avec (à peu près) les mêmes exigences. Un écran UHD contient un peu plus de deux fois plus de pixels qu’un écran 1440p. Et un écran 144 Hz affiche un peu plus de deux fois plus d’images chaque seconde. On a donc, chaque seconde, un nombre équivalent de pixels à afficher, quelque soit la configuration.
 
@@ -62,7 +78,12 @@ Si vous avez cherché à acheter un écran ces dernières années, vous avez sû
 
 Sur une configuration classique, quand votre carte graphique produit une image, elle l’envoie directement à l’écran, même si celui-ci n’est pas prêt à en afficher une nouvelle. Il va alors afficher en même temps l’ancienne image et la nouvelle sur deux portions de l’écran, résultant un effet de déchirement (screen tearing).
 
-![Screen tearing dans Overwatch](/assets/images/articles/2017/ecran/overwatch-screen-tearing.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2017/ecran/overwatch-screen-tearing.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2017/ecran/overwatch-screen-tearing.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2017/ecran/overwatch-screen-tearing.jpg" alt="Screen tearing dans Overwatch">
+</picture>
+
 
 G-Sync et Freesync permettent à votre écran de se synchroniser avec votre carte graphique, pour afficher une image complète dès qu’elle est prête. Le jeu affiché est alors plus propre et aussi un peu plus confortable, mêmes dans des fréquences d’affichage basses.
 

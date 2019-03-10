@@ -18,8 +18,6 @@ name: MatosPC.fr
 
 description: Actus et références Hardware
 
-avatar: /assets/images/logo.png
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.matospc.fr
 

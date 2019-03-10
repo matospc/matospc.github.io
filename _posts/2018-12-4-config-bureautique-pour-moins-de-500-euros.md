@@ -9,13 +9,21 @@ Après de nombreuses années de disette, AMD revient dans la course avec sa gamm
 
 Sans plus tarder, voyons la liste pêle-mêle des composants.
 
-![Composants de cette build](/assets/images/articles/2018/500e/composants-ryzen-build.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/composants-ryzen-build.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/composants-ryzen-build.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/composants-ryzen-build.jpg" alt="Composants de cette build" >
+</picture>
 
 # Processeur
 
 Le **Ryzen 5 2600** sera donc la base de cette configuration. Il propose à l’heure actuelle un des meilleurs rapports performances/prix. Ainsi, pour environ 180€, il fait jeu égal avec l’Intel [i5 8400](https://www.amazon.fr/Intel-i5-8400-Processeur-c%C5%93urs-Version/dp/B0759FGJ3Q/ref=as_li_ss_tl?ie=UTF8&qid=1543953370&sr=8-1&keywords=i5+8400&th=1&linkCode=ll1&tag=matospc00-21&linkId=9a6cb983c6dd8a7e947126beb0f26be5&language=fr_FR), à une fraction de son prix. Associé à 8 Go de mémoire vive et un SSD, nous obtenons une machine qui n’aura pas à rougir pour toutes les utilisations bureautiques.
 
-![Ryzen 5 2600](/assets/images/articles/2018/500e/ryzen.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/ryzen.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/ryzen.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/ryzen.jpg" alt="Ryzen 5 2600" >
+</picture>
 
 ## [Ryzen 5 2600](https://www.amazon.fr/AMD-YD2600BBAFBOX-Processeur-RYZEN5-Socket/dp/B07B41WS48/ref=as_li_ss_tl?ie=UTF8&qid=1543953553&sr=8-1&keywords=ryzen+5+2600&linkCode=ll1&tag=matospc00-21&linkId=5b5ad9bce24715962083a65378d10234&language=fr_FR)
 
@@ -29,7 +37,11 @@ Ainsi, même si notre carte mère dispose de sorties vidéo HDMI et DVI-D, celle
 
 Pour notre bécane bureautique, nous choisirons la carte la moins chère possible : 
 
-![nVidia GT710](/assets/images/articles/2018/500e/nvidia-gt710.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/nvidia-gt710.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/nvidia-gt710.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/nvidia-gt710.jpg" alt="nVidia GT710" >
+</picture>
 
 ## [nVidia GT710](https://amzn.to/2GIv2Kq)
 
@@ -45,7 +57,11 @@ Le choix est votre, en fonction de vos besoins de quantité de stockage, mais ma
 
 À notre époque de connexion Internet rapide proposant streaming et stockage en ligne, un disque local de 500 Go proposant de bonnes performances, semble un bon compromis espace/prix :
 
-![Samsung 860 EVO](/assets/images/articles/2018/500e/samsung-860-evo.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/samsung-860-evo.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/samsung-860-evo.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/samsung-860-evo.jpg" alt="Samsung 860 EVO" >
+</picture>
 
 ## [Samsung 860 EVO](https://amzn.to/2BPpzxF)
 
@@ -53,7 +69,11 @@ Pour un prix équivalent, un disque dur propose 2 To de stockage, soit quatre fo
 
 Un tel espace peut néanmoins s’avérer pertinent en renfort de votre SSD sur lequel sera installé le système d’exploitation et les logiciels. Le disque dur accueillera alors vidéos, photos et autres documents dont l’accès n’est pas critique pour les performances de la machine. 
 
-![Seagate BarraCuda 2 To SATA](/assets/images/articles/2018/500e/seagate-barracuda.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/seagate-barracuda.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/seagate-barracuda.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/seagate-barracuda.jpg" alt="Seagate BarraCuda 2 To SATA" >
+</picture>
 
 ## [Seagate BarraCuda 2 To SATA](https://amzn.to/2Sn8jFt)
 
@@ -73,11 +93,19 @@ Néanmoins, acheter une barrette unique de 8 Go n’est pas un choix complèteme
 
  Voici quelques suggestions à prendre avec des pincettes, selon le marché du moment (un kit que j’avais identifié a vu son prix augmenter de 30€ en deux jours) : 
 
-![Ballistix Sport LT 8Go](/assets/images/articles/2018/500e/ddr4-ballistix.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/ddr4-ballistix.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/ddr4-ballistix.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/ddr4-ballistix.jpg" alt="Ballistix Sport LT 8Go" >
+</picture>
 
 ## [Ballistix Sport LT 8Go](https://amzn.to/2SV9XmG)
 
-![Corsair Vengeance LPX 8Go (2x4Go)](/assets/images/articles/2018/500e/ddr4-corsair.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/ddr4-corsair.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/ddr4-corsair.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/ddr4-corsair.jpg" alt="Corsair Vengeance LPX 8Go (2x4Go)" >
+</picture>
 
 ## [Corsair Vengeance LPX 8Go (2x4Go)](https://amzn.to/2BNKfGc)
 
@@ -87,7 +115,11 @@ La carte mère est un autre composant sur lequel on peut se permettre de réduir
 
 Les cartes mères microATX sont parmi les moins chères. Elles offrent sensiblement les mêmes fonctionnalités (généralement avec quelques ports USB et mémoire vive de moins) que leurs grandes homologues ATX, pour un prix réduit par leur petite taille. 
 
-![Gigabyte GA-A320M-S2H](/assets/images/articles/2018/500e/gigabyte-a320m.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/gigabyte-a320m.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/gigabyte-a320m.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/gigabyte-a320m.jpg" alt="Gigabyte GA-A320M-S2H" >
+</picture>
 
 ## [Gigabyte GA-A320M-S2H](https://amzn.to/2GI0msO)
 
@@ -97,7 +129,11 @@ Le prix du boîtier aussi va profiter de la taille réduite de la carte mère, n
 
 Antek est une marque qui a fait ses preuves, proposant généralement un bon rapport finition / prix, autant en entrée de gamme, comme ce VSK3000E-U3, que sur des modèles plus élaborés. 
 
-![Antec VSK3000E-U3](/assets/images/articles/2018/500e/antec-case-VSK3000.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/antec-case-VSK3000.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/antec-case-VSK3000.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/antec-case-VSK3000.jpg" alt="Antec VSK3000E-U3" >
+</picture>
 
 ## [Antec VSK3000E-U3](https://amzn.to/2BRTBRa)
 
@@ -111,7 +147,11 @@ Pour autant, l’alimentation n’est pas un poste sur lequel il est judicieux d
 
 Un modèle de 400 ou 450 watts sera suffisant pour faire tourner cette machine :
 
-![Corsair VS 450](/assets/images/articles/2018/500e/corsair-vs450.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/corsair-vs450.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/corsair-vs450.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/corsair-vs450.jpg" alt="Corsair VS 450" >
+</picture>
 
 ## [Corsair VS 450](https://amzn.to/2GIR9AJ)
 
@@ -125,7 +165,11 @@ On peut considérer aujourd’hui le lecteur DVD comme optionnel. Je n’ai en t
 
 Si jamais le besoin se présente, on peut trouver maintenant des modèles dans les 15€ qui font très bien le travail.
 
-![Liteon IHAS124-14](/assets/images/articles/2018/500e/liteon-dvd.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/500e/liteon-dvd.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/500e/liteon-dvd.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/500e/liteon-dvd.jpg" alt="Liteon IHAS124-14" >
+</picture>
 
 ## [Liteon IHAS124-14](https://amzn.to/2Smy4pd)
 

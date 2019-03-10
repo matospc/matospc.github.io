@@ -8,12 +8,20 @@ $purple : #1d0c52;
 	box-sizing: border-box;
 }
 
-body {
-	background: url("/assets/images/velvet-desktop-background.jpg") no-repeat fixed $purple left;
+html {
+	background: no-repeat fixed $purple left;
 	font-size: 14px;
 	line-height: 1.5;
 	color: #24292e;
 	margin: 0;
+
+	&.webp {
+		background-image: url('/assets/images/velvet-desktop-background.webp');
+	}
+
+	&.no-webp, &.no-js {
+		background-image: url('/assets/images/velvet-desktop-background.jpg');
+	}
 }
 
 header {

@@ -7,7 +7,11 @@ tags: [vr, casque, réalité, virtuelle]
 
 Plus de deux ans après la sortie presque simultanée des premiers vrais casques de réalité virtuelle, les prix commencent à baisser. Cette situation est-elle le signe qu’il est temps de craquer ou qu’il est urgent d’attendre ?
 
-![](/assets/images/articles/2018/vr/lucrezia-carnelos-1081230-unsplash.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/vr/lucrezia-carnelos-1081230-unsplash.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/vr/lucrezia-carnelos-1081230-unsplash.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/vr/lucrezia-carnelos-1081230-unsplash.jpg" >
+</picture>
 
 # Faut-il attendre de nouveaux modèles ?
 
@@ -19,7 +23,11 @@ Du côté d’Oculus Rift, aucune annonce prometteuse non plus. Les dernières n
 
 Pas d’annonce non plus chez Sony, concernant le PlayStation VR. Le casque a été un franc succès avec maintenant plus de 3 millions d’unités vendues, grâce à une offre plus abordable que la concurrence, venant se greffer sur un parc de consoles bien installé. Néanmoins, si on se réfère aux cycles de renouvellement du matériel dans le monde des consoles, plus lent que dans l’univers PC, rien ne présage une nouvelle version. Le casque a déjà connu de légères améliorations, mais nous sommes loin d’une refonte.
 
-![](/assets/images/articles/2018/vr/uriel-soberanes-794026-unsplash.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/vr/uriel-soberanes-794026-unsplash.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/vr/uriel-soberanes-794026-unsplash.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/vr/uriel-soberanes-794026-unsplash.jpg" >
+</picture>
 
 # Les limites de la première génération.
 
@@ -43,7 +51,11 @@ Devant l’investissement qu’un tel matériel représente, la pérennité du m
 
 Soulignons également qu’un support de la réalité virtuelle dans un jeu vidéo nécessite des développements spécifiques. Si le marché de la réalité virtuelle ne se développe pas davantage auprès du grand public, les grands studios de développement de jeux ne verront pas leur intérêt financier à investir des moyens pour apporter cette plus-value à une poignée de joueurs.
 
-![](/assets/images/articles/2018/vr/neonbrand-386945-unsplash.jpg)
+<picture>
+  <source srcset="/assets/images/articles/2018/vr/neonbrand-386945-unsplash.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/vr/neonbrand-386945-unsplash.jpg" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/vr/neonbrand-386945-unsplash.jpg" >
+</picture>
 
 Ce schéma s’est déjà vérifié lorsque nVidia a sorti une paire de lunettes pour jouer en 3D relief sur PC. De nombreux titres ont d’abord pris le pli de prendre en charge ces développements pour soutenir la nouveauté. Ce produit n’ayant jamais atteint le grand public, aujourd’hui plus aucun jeu ne supporte nativement 3D Vision. Cette technologie reste néanmoins utilisable, mais les développements nécessaires sont pris en charge par une poignée de passionnés, de manière officieuse.
 
