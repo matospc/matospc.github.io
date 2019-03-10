@@ -1,0 +1,15 @@
+<script>
+
+	window.onload = function(){
+		// Clear search bar.
+		clearSearchInput();
+	}
+
+	var clearSearchInput = function() {
+		var element = document.getElementById("search-input");
+		if(!element) return;
+
+		element.value = '';
+	}
+
+</script>

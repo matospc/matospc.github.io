@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1><a href="{{page.url}}">{{ page.title }}</a></h1>
+
+  <div class="date">
+    Publié le {{ page.date | date: "%d/%m/%Y" }}
+  </div>
+  
+  <div class="entry">
+    {{ content }}
+  </div>
+
+</article>

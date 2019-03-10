@@ -1,0 +1,207 @@
+---
+---
+
+$orange : #ff8f00;
+$purple : #1d0c52;
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: url("/assets/images/velvet-desktop-background.jpg") no-repeat fixed $purple left;
+	font-size: 14px;
+	line-height: 1.5;
+	color: #24292e;
+	margin: 0;
+}
+
+header {
+	width: 750px;
+
+	img {
+		display: block;
+		margin: 20px 0 15px 10px;
+	}
+}
+
+a { 
+	color: $purple;
+	text-decoration: none;
+	cursor: pointer;
+
+	&:hover, &:active {
+    	text-decoration: underline;
+    	text-decoration-color: $orange;
+  	}
+}
+
+code {
+	font-family: 'Inconsolata', monospace;
+	color: red;
+	font-size: 17px;
+}
+
+input {
+
+}
+
+.container {
+  margin: 0 auto;
+  width: 980px;
+  padding: 0;
+}
+
+div#main {
+
+	article.post {
+
+		width: 750px;
+		border: 2px solid $purple;
+		background-color: #ececff;
+		background-image: linear-gradient(to bottom, #ececff, white);
+		border-radius: 15px;
+		padding: 0 15px 25px 15px;
+		margin-bottom: 15px;
+
+		h1 {
+			font-family: 'Raleway', sans-serif;
+			text-align: left;
+			font-weight: 400;
+			margin: 35px 0 0 0;
+			font-size: 32px;
+		}
+
+		>h1 {
+			text-align: center;
+			font-size: 36px;
+			font-weight: 700;
+			padding: 0;
+			margin: 15px 0 0 0;
+		}
+
+		h2 {
+			text-align: center;
+		}
+
+		h3 {
+			font-size: 20px;
+			margin: 25px 0 0 0;
+		}
+
+		a {
+			text-decoration: underline;
+			text-decoration-color: $orange;
+			font-weight: bold;
+		}
+
+		img {
+			display: block;
+			margin: 15px auto;
+			border: 1px solid $purple;
+			padding: 2px;
+			background-color: white;
+		}
+
+		div.date {
+			font-style: italic;
+			margin: 0 0 40px 40px;
+		}
+
+		font-family: 'Merriweather', serif;
+		font-size: 15px;
+		line-height: 1.7;
+		text-align: justify;
+
+		ul {
+			margin: 0 30px 0 30px;
+		}
+
+		p {
+			margin: 15px 10px 0 10px;
+		}
+	}
+
+	div#sidebar {
+		font-family: 'Raleway', sans-serif;
+		display: block;
+		position: fixed;
+		margin: 0 0 0 760px;
+
+		h1 {
+			font-size: 25px;
+			margin: 0 0 10px 30px;
+		}
+
+		div {
+			background-color: #ececff;
+			padding: 10px;
+			margin-bottom: 15px;
+			border: 2px solid $orange;
+			max-width: 340px;
+			border-radius: 15px;
+		}
+
+		li {
+			line-height: 30px;
+			vertical-align: middle;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			background: url("/assets/images/icons/file-text.svg") no-repeat;
+			padding-left: 30px;
+		}
+
+		ul {
+			list-style: none;
+			text-overflow: ellipsis;
+			padding-left: 0;
+			margin: 0;
+		}
+
+		div {
+
+			&#search-container {
+				padding-bottom: 0;
+
+				input#search-input {
+					font-size: 14px;
+					width: 316px;
+					border-radius: 15px;
+					border: 1px solid black;
+					padding: 3px 0 3px 10px;
+					margin: 5px 0 10px 0;
+					font-family: 'Raleway', sans-serif;
+				}
+
+				ul#results-container {
+					border: none;
+					margin: 0 0 5px 0;
+				}
+			}
+
+			&#social {
+				background: none;
+				border: none;
+				margin: 0;
+
+				a {
+					display: inline-block;
+
+					&#twitter {
+						background: url("/assets/images/icons/twitter.svg") no-repeat;
+						height: 45px;
+						width: 45px;
+					}
+				}
+
+			}
+		}
+
+		
+	}
+
+}
+
+
+
