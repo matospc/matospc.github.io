@@ -53,7 +53,11 @@ Sous Windows, exécutez cette commande sous PowerShell, en renseignant le DNS qu
 
 Voici un exemple : ``Measure-Command {nslookup matospc.fr 9.9.9.9}|select TotalSeconds``
 
-![Commande Powershell](/assets/images/articles/2018/dns/powershell.png)
+<picture>
+  <source srcset="/assets/images/articles/2018/dns/powershell.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/dns/powershell.png" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/dns/powershell.png" alt="Commande Powershell" >
+</picture>
 
 Répéter ce test plusieurs fois, sur des DNS différents vous permettra de voir lequel est le plus rapide pour vous. 
 
@@ -65,7 +69,11 @@ Lorsque vous allez régulièrement sur les mêmes sites Internet, leurs adresses
 
 C'est ce qu'on appelle le cache DNS. Ce système mitige énormément la lenteur potentielle d'un serveur DNS de mauvaise qualité, surtout chez les utilisateurs aux habitudes de navigation bien ancrées. 
 
-![Cache DNS](/assets/images/articles/2018/dns/displaydns.png)
+<picture>
+  <source srcset="/assets/images/articles/2018/dns/displaydns.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/dns/displaydns.png" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/dns/displaydns.png" alt="Cache DNS" >
+</picture>
 
 
 # Finalement, lequel choisir ?
@@ -87,6 +95,10 @@ Double-cliquez sur la connexion vous reliant à Internet, cliquez sur ``Proprié
 
 Sélectionnez ``Utiliser l'adresse de serveur DNS suivante`` et insérez la ou les adresses IP de votre nouveau DNS.
 
-![Paramétrage du DNS sous Windows](/assets/images/articles/2018/dns/parametrage.png)
+<picture>
+  <source srcset="/assets/images/articles/2018/dns/parametrage.webp" type="image/webp">
+  <source srcset="/assets/images/articles/2018/dns/parametrage.png" type="image/jpeg"> 
+  <img src="/assets/images/articles/2018/dns/parametrage.png" alt="Paramétrage du DNS sous Windows" >
+</picture>
 
 Allez ensuite tester ce nouveau paramétrage en ouvrant votre navigateur préféré. Selon la qualité de votre DNS précédent, vous pourriez ressentir une navigation Internet plus fluide... et peut-être plus sereine.

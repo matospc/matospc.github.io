@@ -19,7 +19,7 @@ html {
 		background-image: url('/assets/images/velvet-desktop-background.webp');
 	}
 
-	&.no-webp, &.no-js {
+	&.no-webp {
 		background-image: url('/assets/images/velvet-desktop-background.jpg');
 	}
 }
