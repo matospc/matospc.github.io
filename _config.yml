@@ -27,9 +27,12 @@ github_username:  matospc
 # Build settings
 markdown: kramdown
 
+permalink: /:title/
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Set the Sass partials directory, as we're using @imports
 sass:
