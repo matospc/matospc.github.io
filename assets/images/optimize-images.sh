@@ -13,4 +13,4 @@ find . -name "*.png.webp" -exec rename 's/\.png.webp$/.webp/' '{}' \;
 find . -type f -name "*.jpg" -exec cwebp -q 90 {} -o {}.webp \; 
 
 # Rename all *.jpg.webp to *.webp
-find . -name "*.jpg.webp" -exec rename 's/\.jpg.webp$/.webp/' '{}' \;
+find . -name "*.jpg.webp" -exec rename -f 's/\.jpg.webp$/.webp/' '{}' \;
