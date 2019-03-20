@@ -27,7 +27,7 @@ Si on tente de démarrer en mode AHCI sur un Windows paramétré en IDE, c'est l
 
 Par contre, si vous changez de carte mère, la nouvelle ne gèrera pas forcément le mode IDE, vous empêchant complètement de démarrer et de modifier votre registre. Il faut donc faire la modification avant de changer le matériel.
 
-Lancez l'éditeur de registre en écrivant 'regedit' dans votre menu démarrer.
+Lancez l'éditeur de registre en écrivant ``regedit`` dans votre menu démarrer.
 
 <picture>
   <source srcset="/assets/images/articles/2019/conseils-upgrade/regedit.webp" type="image/webp">
@@ -36,27 +36,29 @@ Lancez l'éditeur de registre en écrivant 'regedit' dans votre menu démarrer.
 </picture>
 
 
-Ensuite, ça se joue sous le BIOS (ou UEFI). La méthode pour y accéder peut dépendre de votre carte-mère
+Ensuite, ça se joue sous le BIOS (ou UEFI). La méthode pour y accéder peut dépendre de votre carte-mère, mais marteler la touche ``suppr`` au démarrage du PC fonctionne souvent. 
 
 # Conserver la connectivité des lecteurs internes
 
-De paire avec la disparition de son "mode SATA", le connecteur IDE lui-même disparaît progressivement de nos cartes mères. 
+De paire avec l'obsolescence de son "mode SATA", le connecteur IDE lui-même disparaît progressivement de nos cartes mères. 
 
-Ainsi, si vous souhaitez absolument conserver un lecteur DVD ou un disque dur IDE, accrochez-vous car il sera difficile de trouver ce connecteur désuet sur une carte mère récente. Il existe néanmoins des [adapteurs IDE vers SATA](https://amzn.to/2HzhuR6) qui pourront vous dépanner. Mon conseil personnel serait de mettre les deux pieds en 2019 et d'investir dans du matériel connecté en SATA (ou M.2, pourquoi pas). 
+Ainsi, si vous souhaitez absolument conserver un lecteur DVD ou un disque dur IDE, accrochez-vous car il sera difficile de trouver ce connecteur désuet sur une carte mère récente. Il existe néanmoins des [adapteurs IDE vers SATA](https://amzn.to/2HzhuR6) qui pourront vous dépanner... mais un [lecteur DVD](https://amzn.to/2OgRifJ) neuf n'est pas beaucoup plus cher. 
 
-# Windows 7 ne supporte plus les processeurs récents
+Mon conseil personnel serait de mettre les deux pieds en 2019 et d'investir dans du matériel connecté en SATA (ou M.2, pourquoi pas). 
+
+# Renouveller son processeur quand on est sous Windows 7
 
 Si vous investissez dans un nouveau processeur et que vous possédez une installation de Windows 7, vous n'échapperez probablement pas à une mise à niveau vers Windows 10. 
 
-En effet, si vous vous décidez quand même à installer vos nouveaux processeur et carte mère, le système s'exécutera mais sera incapable de faire une quelconque mise à jour ou de télécharger les pilotes de votre matériel. Typiquement, vous voici maintenant avec une carte mère toute neuve dont les ports USB ou réseau sont inutilisables car Windows ne les reconnait pas. Besoin de mettre les mains sur une vieille souris PS/2 et d'utiliser le clavier virtuel pour naviguer sur ce pauvre ordinateur...
+En effet, si vous vous décidez quand même à installer vos nouveaux processeur et carte mère, le système s'exécutera mais sera incapable de faire une quelconque mise à jour ou de télécharger les pilotes de votre matériel. Typiquement, vous pourriez vous retrouver avec une carte mère toute neuve dont les ports USB ou réseau sont inutilisables car Windows ne les reconnaitra pas (ce fut mon cas). Besoin de mettre les mains sur une vieille souris PS/2 et d'utiliser le clavier virtuel pour naviguer sur ce pauvre ordinateur...
 
-Vous trouverez tous les détails de ce problème et les processeurs concernés sur [la page de support officielle Microsoft](https://support.microsoft.com/fr-fr/help/4012982/the-processor-is-not-supported-together-with-the-windows-version-that). On trouve parmi eux tous les processeurs Intel à partir de la génération 7 (tel que le [https://amzn.to/2F3q9Zp](i5 7600K)) et les processeurs AMD tournant sur AM4... en somme, tous les processeurs grand public depuis 2017.
+Vous trouverez tous les détails de ce problème et les processeurs concernés sur [la page de support officielle Microsoft](https://support.microsoft.com/fr-fr/help/4012982/the-processor-is-not-supported-together-with-the-windows-version-that). On trouve parmi eux tous les processeurs Intel à partir de la génération 7 (tel que le [i5 7600K](https://amzn.to/2F3q9Zp)) et les processeurs AMD tournant sur AM4 ([Ryzen 5 2600](https://amzn.to/2TlkAL1), par exemple)... en somme, tous les processeurs grand public depuis 2017.
 
 # Mise à niveau gratuite vers Windows 10
 
 Heureusement, si vous possédez une license valide pour Windows 7 ou 8, vous devriez pouvoir faire une mise à niveau vers Windows 10, sans débourser un centime. 
 
-En avance de phase, prévoyez une visite sur [cette page](https://www.microsoft.com/fr-fr/software-download/windows10) pour obtenir l'utilitaire de téléchargement 
+En avance de phase, prévoyez une visite sur [cette page](https://www.microsoft.com/fr-fr/software-download/windows10) pour obtenir l'utilitaire de téléchargement. 
 
 Notez également que cette mise à niveau ne peut se faire que sous Windows. Il reste possible d'utiliser une clé USB ou un DVD pour cette installation, mais démarrer directement dessus ne vous servira à rien. Il vous sera gentiment demandé de relancer la procédure sous votre session Windows.
 
@@ -70,7 +72,6 @@ Alors en effet, la carte graphique n'a pas fonctionné tout de suite. J'ai tent�
 # Finalement...
 
 
-Ainsi, si comme moi vous mettez les mains dans du matos (pas si) ancien, prenez garde à l'obsolescence programmée. Avec un peu de prévoyance et de persévérence, le résultat, même s'il s'est fait désirer, était au rendez-vous. 
+Ainsi, si comme moi vous mettez les mains sur du matos (pas si) ancien, prenez garde à l'obsolescence programmée. Avec un peu de prévoyance et de persévérence, le résultat, même s'il s'est fait désirer, était au rendez-vous. 
 
-
-Le système de mise à niveau vers Windows 10 fonctionne bien et peu vous sortir de l'embarras, surtout si vous avez la flemme de repartir de zéro sur une installation toute fraîche de Windows 10. 
+Le système de mise à niveau vers Windows 10 fonctionne bien et peu vous sortir de l'embarras, surtout si vous avez la flemme de repartir de zéro sur une installation toute fraîche de Windows. 
