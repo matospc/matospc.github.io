@@ -203,6 +203,13 @@ div#main {
     width: 99%;
   }
 
+  header {
+    img {
+      width: 90%;
+      max-width: 512px;
+    }
+  }
+
   div#main {
     div#sidebar {
       margin: 40px auto 0 auto;
@@ -224,6 +231,10 @@ div#main {
     article.post {
       width: 96%;
       margin: 0 auto 15px auto;
+
+      img {
+        width: 100%;
+      }
     }
   }
 }
