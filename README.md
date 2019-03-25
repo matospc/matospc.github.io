@@ -6,6 +6,7 @@ Il repose sur Jekyll et GitHub Pages.
 
 ## Fonctionnalités
 
+ * Responsive WebDesign via Media Queries
  * [Recherche instantanée](https://blog.webjeda.com/instant-jekyll-search/)
  * [Images WebP avec fallback JPEG/PNG](http://www.stucox.com/blog/using-webp-with-modernizr/)
  * PNG optimisés via [ZopfliPNG](https://github.com/google/zopfli)
