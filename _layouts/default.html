@@ -1,61 +1,59 @@
 <!DOCTYPE html>
-<html class="no-js" >
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html class="no-js">
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />-->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  {% include meta.html %}
 
-    <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+  <!--<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />-->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Merriweather|Raleway:400,700|Inconsolata" rel="stylesheet"> 
+  <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
 
-  </head>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Raleway:400,700|Inconsolata" rel="stylesheet">
 
-  <body>
-    <div class="container">
-      <header class="masthead clearfix">
-        <a href="{{ site.baseurl }}/" class="site-avatar">
-          <picture>
-            <source srcset="/assets/images/logo.webp" type="image/webp">
-            <source srcset="/assets/images/logo.png" type="image/jpeg"> 
-            <img src="/assets/images/logo.png" alt="MatosPC.fr">
-          </picture>
-        </a>
-      </header>
-    </div>
+</head>
 
-    <div id="main" role="main" class="container">
+<body>
+  <header>
+    <a href="{{ site.baseurl }}/" class="site-avatar">
+      <picture>
+        <source srcset="/assets/images/logo.webp" type="image/webp">
+        <source srcset="/assets/images/logo.png" type="image/jpeg">
+        <img src="/assets/images/logo.png" alt="MatosPC.fr">
+      </picture>
+    </a>
+  </header>
 
+  <div id="main" role="main">
     <div id="sidebar">
-
-      <div id="posts">
+      <div>
         <h1>Articles récents</h1>
-
         <ul>
           {% for post in site.posts limit:5 %}
           <li>
             <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
           </li>
-          {% endfor %} 
+          {% endfor %}
         </ul>
       </div>
 
       {% include search.html %}
 
-      <div id="social" >
-        <a href="https://twitter.com/MatosPC_fr"id="twitter" ></a>
+      <div id="social">
+        <a href="https://twitter.com/MatosPC_fr" id="twitter"></a>
       </div>
     </div>
 
-      {{ content }}
-    </div>
+    {{ content }}
+  </div>
 
-    {% include footer-scripts.html %}
+  {% include footer-scripts.html %}
 
-  </body>
+</body>
+
 </html>
