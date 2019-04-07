@@ -33,24 +33,7 @@
   </header>
 
   <div id="main" role="main">
-    <div id="sidebar">
-      <div>
-        <h1>Articles récents</h1>
-        <ul>
-          {% for post in site.posts limit:10 %}
-          <li>
-            <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-
-      {% include search.html %}
-
-      <div id="social">
-        <a href="https://twitter.com/MatosPC_fr" id="twitter"></a>
-      </div>
-    </div>
+    {% include sidebar.html %}
 
     {{ content }}
   </div>

@@ -14,13 +14,13 @@ Il repose sur Jekyll et GitHub Pages.
 
 ## TO DO
 
- * Personnaliser la page 404
- * Footer d'article
+ - Footer d'article
 
 ### Articles
 
  * Config PC Royal Deluxe
  * Gueguerre AMD / Intel avec historique
+ * Faire valoir son droit de rétractation
 
 ### DNS
 

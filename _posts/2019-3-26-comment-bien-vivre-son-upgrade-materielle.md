@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comment bien mener une upgrade matérielle en conservant son installation Windows ?
+title: Bien mener une upgrade matérielle en conservant son installation Windows
 description: La flemme de réinstaller Windows après une upgrade ? C'est possible, mais pas forcément plus simple.
 tags: [upgrade, windows, processeur, regedit, registre, 10]
 ---

@@ -3,6 +3,7 @@
 
 $orange: #ff8f00;
 $purple: #1d0c52;
+$lightblue: #ececff;
 
 * {
   box-sizing: border-box;
@@ -55,10 +56,11 @@ code {
 }
 
 div#main {
-  article.post {
+  article.post,
+  div.page {
     width: 750px;
     border: 2px solid $purple;
-    background-color: #ececff;
+    background-color: $lightblue;
     background-image: linear-gradient(to bottom, #ececff, white);
     border-radius: 15px;
     padding: 0 15px 25px 15px;
@@ -78,7 +80,7 @@ div#main {
       font-weight: 700;
       padding: 0;
       margin: 15px 0 0 0;
-      background: linear-gradient(to top, #ececff, #fff);
+      background: linear-gradient(to top, $lightblue, white);
       border-radius: 15px;
 
       > a {
@@ -140,8 +142,14 @@ div#main {
       margin: 0 0 10px 30px;
     }
 
+    h3 {
+      margin-bottom: 0;
+      background: url("/assets/images/icons/file-text.svg") no-repeat;
+      padding-left: 30px;
+    }
+
     div {
-      background-color: #ececff;
+      background-color: $lightblue;
       padding: 10px;
       margin-bottom: 15px;
       border: 2px solid $orange;
