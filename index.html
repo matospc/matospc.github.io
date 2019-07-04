@@ -9,12 +9,13 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-	  	<div class="date">Publié le {{ post.date | date: "%d/%m/%Y" }}</div>
-
         {{ post.content }}
+
+        <div class="date">
+          <a href="mailto:alexandre@matospc.fr" >Alexandre</a>, le {{ post.date | date: "%d/%m/%Y" }}
+        </div>
       </div>
 
-      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
     </article>
   {% endfor %}
 </div>

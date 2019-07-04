@@ -17,26 +17,21 @@
   <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Merriweather|Raleway:400,700|Inconsolata" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Raleway:400,700|Inconsolata" rel="stylesheet">
 
 </head>
 
 <body>
   <header>
     <a href="{{ site.baseurl }}/" class="site-avatar">
-      <picture>
-        <source srcset="/assets/images/logo.webp" type="image/webp">
-        <source srcset="/assets/images/logo.png" type="image/jpeg">
-        <img src="/assets/images/logo.png" alt="MatosPC.fr">
-      </picture>
+        <img src="/assets/images/title-full.png" alt="MatosPC.fr" id="logo-full" >
+        <img src="/assets/images/title.png" alt="MatosPC.fr" id="logo" >
     </a>
   </header>
 
-  <div id="main" role="main">
-    {% include sidebar.html %}
+  {% include sidebar.html %}
 
-    {{ content }}
-  </div>
+  {{ content }}
 
   {% include footer-scripts.html %}
 
