@@ -265,12 +265,10 @@ body {
   html {
     background: none;
   }
-
-  body {
-    width: 100%;
-  }
   
   body {
+    width: 100%;
+
     div#sidebar {
       margin: 0;
       position: relative;
@@ -299,6 +297,15 @@ body {
         width: initial;
         margin: 0;
         padding: 3%;
+
+        div.entry {
+          width: initial;
+          padding: 0;
+
+          div.date {
+            margin: 20px 0 20px 10%;
+          }
+        }
   
         img {
           width: 100%;
