@@ -226,22 +226,24 @@ body {
           margin: 0 0 5px 0;
         }
       }
+    }
+  }
+  
+  div#social {
 
-      &#social {
-        background: none;
-        border: none;
-        margin: 0;
-        text-align: right;
+    display: none;
 
-        a {
-          display: inline-block;
+    position: absolute;
+    top: 540px;
+    left: 285px;
 
-          &#twitter {
-            background: url("/assets/images/icons/twitter.svg") no-repeat;
-            height: 45px;
-            width: 45px;
-          }
-        }
+    a {
+      display: inline-block;
+
+      &#twitter {
+        background: url("/assets/images/icons/twitter.svg") no-repeat;
+        height: 45px;
+        width: 45px;
       }
     }
   }
