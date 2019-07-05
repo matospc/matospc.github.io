@@ -38,10 +38,6 @@ body {
   margin: 0;
 }
 
-h1 {
-  font-family: "Raleway", sans-serif;
-}
-
 header {
   left: 10%;
   display: block;
@@ -82,31 +78,42 @@ code {
 
 body {
 
+  div.page {
+    padding: 50px;
+    background: white;
+  }
+
   div.page, div.posts {
     position: absolute;
     left: 340px;
 
-    >h1 {
-      background: white;
+    h1 {
+      font-family: "Raleway", sans-serif;
+      font-size: 40px;
+      padding: 40px;
       margin: 0;
-      padding: 40px 0 0 40px;
-      font-size: 36px;
       text-align: center;
       font-weight: 700;
     }
 
-    article.post, div.entry {
-      background-color: white;
-      padding: 40px 15px 25px 60px;
+    article.post {
+      background: white;
+      padding: 40px 0 20px 50px;
       margin-bottom: 15px;
+    }
+
+    div.entry {
+      background-color: white;
       left: 0;
       width: 810px;
+      font-family: 'Roboto Slab', serif;
+      font-size: 17px;
+      line-height: 1.7;
 
       > h1 {
-        text-align: center;
-        font-size: 36px;
+        text-align: left;
+        font-size: 32px;
         font-weight: 700;
-        padding: 0;
         margin: 0;
 
         > a {
@@ -138,15 +145,6 @@ body {
         background-color: white;
       }
 
-      div.date {
-        font-style: italic;
-        margin: 20px 0 0 450px;
-      }
-
-      font-family: 'Roboto Slab', serif;
-      font-size: 17px;
-      line-height: 1.7;
-
       ul {
         margin: 0 30px 0 30px;
       }
@@ -155,6 +153,15 @@ body {
         margin: 15px 10px 0 10px;
         text-align: left;
       }
+    }
+
+    div.date {
+      font-style: italic;
+      background: white;
+      font-family: "Raleway", sans-serif;
+      font-size: 16px;
+      padding: 40px 15px 0 0;
+      text-align: right;
     }
   }
 
