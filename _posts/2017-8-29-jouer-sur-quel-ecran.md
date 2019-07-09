@@ -100,7 +100,7 @@ Il s’agit là vraiment d’une fonctionnalité de confort. Si vous êtes équi
 
 
 
-# Crédits photo
+# Sources photo
 
  * [Sean Do](https://unsplash.com/@everywheresean)
 
