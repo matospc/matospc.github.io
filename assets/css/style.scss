@@ -38,6 +38,14 @@ body {
   margin: 0;
 }
 
+/* Youtube iframe */
+iframe {
+  margin: 15px auto;
+  display: block;
+  width: 700px;
+  height: 395px;
+}
+
 header {
   left: 10%;
   display: block;
@@ -89,7 +97,7 @@ body {
 
     h1 {
       font-family: "Raleway", sans-serif;
-      font-size: 40px;
+      font-size: 39px;
       padding: 40px;
       margin: 0;
       text-align: center;
