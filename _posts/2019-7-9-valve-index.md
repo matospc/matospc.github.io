@@ -19,26 +19,24 @@ Sans pour autant réinventer les bases posées par les casques existants, le Val
 
 Les lentilles promettent une meilleure clarté que la concurrence, en particulier sur les bords extérieurs, grâce au réglage de la profondeur et de l'écartement, ainsi que par leur inclinaison. Ainsi, le champ de vision est supérieur de 20 degrés par rapport aux grands noms actuels du marché (HTC Vive, Oculus Rift).
 
-L'écran propose une résolution par œil de 1440 * 1600. Le choix d'un écran LCD plutôt qu'OLED est un compromis permettant d'obtenir une plus grande densité de sous-pixels et de réduire significativement l'effet de grille et la d'améliorer la lisibilité du texte, au prix de noirs légèrement moins profonds. Sa fréquence de rafraichissement est également bien supérieure, atteignant 144 images par seconde, là où 90 était le standard des casques précédents. 
+L'écran propose une résolution par œil de 1440 * 1600. Le choix d'un écran LCD plutôt qu'OLED est un compromis permettant d'obtenir une plus grande densité de sous-pixels et de réduire significativement l'effet de grille et d'améliorer la lisibilité du texte, au prix de noirs légèrement moins profonds. Sa fréquence de rafraichissement est également bien supérieure, atteignant 144 images par seconde, là où 90 était le standard des casques précédents, un gros plus pour l'immersion. 
 
-Le confort semble également être exemplaire, avec une bonne répartition du poids et des mousses recouvertes de tissus antimicrobiens au niveau du casque et de ses attaches ajustables. Ils sont facilement remplaçables, et même personnalisables, grâce à une attache magnétique.
+Le confort semble également être exemplaire, avec une bonne répartition du poids et des mousses recouvertes de tissus antimicrobiens au niveau du casque et de ses attaches ajustables. Ils sont facilement remplaçables, et même personnalisables, grâce à une fixation magnétique.
 
-Ses hauts-parleurs intégrés ne couvrent pas les oreilles, mais les survolent, encore une fois afin d'améliorer le confort, surtout sur de longues périodes d'utilisation. Vous n'êtes alors par isolé de la pièce dans laquelle vous jouez, mais profitez néanmoins d'une grande qualité sonore. Ce design de hauts-parleurs permet également au son de se diffuser dans l'oreille externe, donnant la sensation que les sons de l'extérieur plutôt que de l'intérieur de la tête, comme avec des oreillettes classiques. 
+Ses hauts-parleurs intégrés ne couvrent pas les oreilles, mais les survolent, encore une fois afin d'améliorer le confort, surtout sur de longues périodes d'utilisation. Pas de problème de chaleur ou de transpiration au niveau des oreilles. Vous n'êtes pas non plus isolé de la pièce dans laquelle vous jouez, mais profitez néanmoins d'une bonne qualité sonore. Ce design de hauts-parleurs permet également au son de se diffuser dans l'oreille externe, donnant la sensation que les sons viennent de l'extérieur plutôt que de l'intérieur de la tête, comme avec des oreillettes classiques. 
 
 Deux caméras frontales permettent d'obtenir une vue 3D de l'environnement qui vous entoure _(camera pass-through)_, que ce soit pour intéragir sans avoir à retirer le casque, ou pour des applications de réalité augmentée.
 
 <!-- pass through -->
 <iframe src="https://www.youtube.com/embed/gzaVY8esYKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Rien de révolutionnaire par contre au niveau des stations de base (qui permettent de délimiter la zone dans laquelle on peut se déplacer), si ce n'est qu'elles augmentent encore un peu la surface maximale : il est maintenant possible d'utiliser le casque dans un carré allant jusqu'à 10 mètres par 10 mètres. De plus, l'Index est compatible avec des stations d'accueil du HTC Vive Pro, ce qui réduit sensiblement la note pour les acquéreurs ayant déjà investi dans ce casque (lui aussi très cher, au demeurant).
+Rien de révolutionnaire par contre au niveau des stations de base (qui permettent de délimiter la zone dans laquelle on peut se déplacer), si ce n'est qu'elles augmentent la surface maximale : il est maintenant possible d'utiliser le casque dans un carré allant jusqu'à 10 mètres par 10 mètres. De plus, l'Index est compatible avec des stations d'accueil du HTC Vive Pro, ce qui réduit sensiblement la note pour les acquéreurs ayant déjà investi dans ce casque (lui aussi très cher, au demeurant).
 
 # Knuckles
 
 ![Valve Index Knuckles](/assets/images/articles/2019/valve-index/valve-index-controllers.jpg)
 
-La plus grande innovation apportée par ce nouveau système vient de ses manettes, qui détectent la position de chaque doigt et de la pression exercée, promettant une expérience bien plus intuitive pour tout ce qui est préhension d'objets virtuels. 
-
-Plus de bouton à appuyer pour faire comprendre au jeu qu'on souhaite prendre un objet… On le prend, c'est tout. 
+La plus grande innovation apportée par ce nouveau système vient de ses manettes, qui détectent la position de chaque doigt et la pression exercée, promettant une expérience bien plus intuitive pour tout ce qui est préhension d'objets virtuels : plus de bouton à appuyer pour faire comprendre au jeu qu'on souhaite prendre un objet… On le prend, c'est tout. 
 
 <!-- Pick up and squish -->
 <iframe src="https://www.youtube.com/embed/PH9xwkTOBEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,21 +49,22 @@ La manette est plaquée contre la paume par une dragonne afin de la tenir en pla
 <!-- Put it on -->
 <!--<iframe src="https://www.youtube.com/embed/HQbUMhBZzG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-
-Ci-dessous, une vidéo de démonstration du jeu [BONEWORKS](https://store.steampowered.com/app/823500/BONEWORKS/), dont la sortie est prévue cette année, illustre très bien à quel point la manipulation d'objets devient naturelle :
+Ci-dessous, voici une démonstration du jeu [BONEWORKS](https://store.steampowered.com/app/823500/BONEWORKS/), dont la sortie est prévue cette année, illustrant très bien à quel point la manipulation d'objets devient naturelle :
 
 <!-- Boneworks -->
 <iframe src="https://www.youtube.com/embed/2E30vb3bmMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Personnalisation
 
-Une trappe à l'avant du casque contenant un port USB permet d'insérer un module personnalisant les fonctionnalités du casque. Valve a publié les [modèles 3D](https://www.valvesoftware.com/fr/index/deep-dive/extensibility) du casque et des manettes pour faciliter la création d'objets compatibles, typiquement via une imprimante 3D. 
+Une trappe à l'avant du casque contenant un port USB permet d'insérer un module pour étendre les fonctionnalités. Valve a publié les [modèles 3D](https://www.valvesoftware.com/fr/index/deep-dive/extensibility) du casque et des manettes pour faciliter la création d'objets compatibles. 
 
 Le casque étant jeune et encore peu diffusé, les exemples d'application sont encore rares mais on peut par exemple citer le [RI Blink](https://realityinstruments.com/ri-blink/), un écran frontal pour l'Index, rappelant Daft Punk. 
 
+On peut également imprimer soi-même un adpatateur en 3D pour faciliter l'utilisation des manettes avec de grandes mains. 
+
 # Adoption
 
-Les premières pré-commandes de l'Index datent du 1er mai 2019. Les premières personnes ayant pré-commandé l'Index l'ont déjà reçu. La casque est en rupture de stock depuis. Les réservations faites maintenant ne seront pas honorées avant fin septembre. 
+Les premières pré-commandes de l'Index datent du 1er mai 2019. Malgré une série très limité, les acheteurs les plus rapides l'ont déjà reçu ; le casque est en rupture de stock depuis. Les réservations faites maintenant ne seront pas honorées avant fin septembre. 
 
 La plateforme [Steam](https://store.steampowered.com/search/?vrsupport=105) comporte déjà un certain nombre de titres compatibles avec ce nouveau casque : 
 
