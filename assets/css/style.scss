@@ -92,8 +92,8 @@ body {
   }
 
   div.page, div.posts {
-    position: absolute;
-    left: 340px;
+    margin-left: 340px;
+    width: 860px;
 
     h1 {
       font-family: "Raleway", sans-serif;
@@ -278,7 +278,7 @@ body {
   }
 }
 
-@media all and (max-width: 1150px) {
+@media all and (max-width: 1200px) {
 
   html {
     background: none;
@@ -308,8 +308,8 @@ body {
     }
 
     div.posts {
-      position: initial;
-      left: 0;
+      margin-left: 0;
+      width: initial;
 
       article.post {
         width: initial;
