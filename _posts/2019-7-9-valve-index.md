@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Valve Index, la nouvelle référence haut de gamme de la réalité virtuelle ?
-description: 
+description: Le nouveau casque de réalité virtuelle de Valve est à la pointe de la technologie. Voyons en détail ce que cette pièce de technologie apporte comme nouveautés. 
 tags: [jeu, gaming, vr, réalité, virtuelle, valve, index, virtual, reality]
 ---
 
@@ -27,8 +27,7 @@ Ses hauts-parleurs intégrés ne couvrent pas les oreilles, mais les survolent, 
 
 Deux caméras frontales permettent d'obtenir une vue 3D de l'environnement qui vous entoure _(camera pass-through)_, que ce soit pour intéragir sans avoir à retirer le casque, ou pour des applications de réalité augmentée.
 
-<!-- pass through -->
-<iframe src="https://www.youtube.com/embed/gzaVY8esYKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Camera Pass-through on the Valve Index" src="https://www.youtube.com/embed/gzaVY8esYKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Rien de révolutionnaire par contre au niveau des stations de base (qui permettent de délimiter la zone dans laquelle on peut se déplacer), si ce n'est qu'elles augmentent la surface maximale : il est maintenant possible d'utiliser le casque dans un carré allant jusqu'à 10 mètres par 10 mètres. De plus, l'Index est compatible avec des stations d'accueil du HTC Vive Pro, ce qui réduit sensiblement la note pour les acquéreurs ayant déjà investi dans ce casque (lui aussi très cher, au demeurant).
 
@@ -38,21 +37,17 @@ Rien de révolutionnaire par contre au niveau des stations de base (qui permette
 
 La plus grande innovation apportée par ce nouveau système vient de ses manettes, qui détectent la position de chaque doigt et la pression exercée, promettant une expérience bien plus intuitive pour tout ce qui est préhension d'objets virtuels : plus de bouton à appuyer pour faire comprendre au jeu qu'on souhaite prendre un objet… On le prend, c'est tout. 
 
-<!-- Pick up and squish -->
-<iframe src="https://www.youtube.com/embed/PH9xwkTOBEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Knuckles EV2: Pick up and squish" src="https://www.youtube.com/embed/PH9xwkTOBEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- Slow fingers movement -->
-<!-- <iframe src="https://www.youtube.com/embed/cjXSXmHZP3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <iframe title="Valve Index controllers handling slow finger movements" src="https://www.youtube.com/embed/cjXSXmHZP3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 La manette est plaquée contre la paume par une dragonne afin de la tenir en place même lorsqu'on ouvre complètement la main.
 
-<!-- Put it on -->
-<!--<iframe src="https://www.youtube.com/embed/HQbUMhBZzG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--<iframe title="Knuckles EV2: Put It On" src="https://www.youtube.com/embed/HQbUMhBZzG4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 Ci-dessous, voici une démonstration du jeu [BONEWORKS](https://store.steampowered.com/app/823500/BONEWORKS/), dont la sortie est prévue cette année, illustrant très bien à quel point la manipulation d'objets devient naturelle :
 
-<!-- Boneworks -->
-<iframe src="https://www.youtube.com/embed/2E30vb3bmMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Boneworks on Valve Index" src="https://www.youtube.com/embed/2E30vb3bmMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Personnalisation
 
