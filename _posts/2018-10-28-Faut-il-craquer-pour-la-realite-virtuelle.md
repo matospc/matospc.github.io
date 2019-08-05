@@ -62,3 +62,7 @@ Ce schéma s’est déjà vérifié lorsque nVidia a sorti une paire de lunettes
 Finalement, rien ne peut dire à l’heure actuelle ce que sera le marché de la réalité virtuelle dans dix ans. Néanmoins, cette nouvelle technologie a su proposer une offre pertinente dès sa première génération. Malgré leurs failles, les casques actuels proposent une expérience inédite, apportant une réelle valeur ajoutée au jeu vidéo.
 
 Malgré leur baisse, les prix actuels font que cette technologie s’adresse à une frange de joueurs passionnés. Néanmoins, il existe aujourd’hui de nombreux moyens de tester l’expérience, pour le curieux hésitant encore à investir : magasins spécialisés, salles de réalités virtuelle ou même chez un propriétaire conciliant. 
+
+# Sources photos
+
+ * Unsplash : [Lucrezia Carnelos](https://unsplash.com/@ciabattespugnose), [Uriel Soberanes](https://unsplash.com/@soberanes) et [NeONBRAND](https://unsplash.com/@neonbrand).
