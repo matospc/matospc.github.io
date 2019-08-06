@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 <div class="posts">
   {% for post in site.posts limit:2 %}
     <article class="post">
@@ -12,8 +13,10 @@ layout: default
         {{ post.content }}
       </div>
       
+      {% capture date_fr %}{{ post.date | date: "%-d" }}{% assign m = post.date | date: "%-m" | minus: 1 %} {{ site.data.fr.months[m] }} {{ post.date | date: "%Y" }}{% endcapture %}
+
       <div class="date">
-        <a href="mailto:matospcfr@gmail.com" >Alexandre</a>, le {{ post.date | date: "%d/%m/%Y" }}
+        <a href="mailto:alexandre@matospc.fr" >Alexandre</a>, le {{ date_fr }}
       </div>
 
     </article>

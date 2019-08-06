@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% capture date_fr %}{{ page.date | date: "%-d" }}{% assign m = page.date | date: "%-m" | minus: 1 %} {{ site.data.fr.months[m] }} {{ page.date | date: "%Y" }}{% endcapture %}
+
 <div class="posts">
   <article class="post">
     <h1><a href="{{page.url}}">{{ page.title }}</a></h1>
@@ -11,7 +13,7 @@ layout: default
     </div>
 
     <div class="date">
-      <a href="mailto:matospcfr@gmail.com" >Alexandre</a>, le {{ page.date | date: "%d/%m/%Y" }}
+      <a href="mailto:alexandre@matospc.fr" >Alexandre</a>, le {{ date_fr }}
     </div>
 
   </article>
