@@ -354,6 +354,16 @@ body {
         }
       }
     }
+
+    div.page {
+      margin-left: 0;
+      width: initial;
+
+      div.entry {
+        margin-left: 0;
+        width: initial;
+      }
+    }
   }
 }
 
