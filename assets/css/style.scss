@@ -281,10 +281,21 @@ body {
   }
 }
 
+
+/**
+ * 
+ * Media queries
+ * 
+ */
+
 @media all and (max-width: 1600px) {
   
   body {
     left: 0;
+  }
+
+  iframe {
+    width: 100%;
   }
 
   header {
