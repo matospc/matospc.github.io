@@ -3,6 +3,8 @@
 # PNG optimization with zopflipng.
 find . -type f -name "*.png" -exec zopflipng -y {} {} \; 
 
+### https://ariya.io/2016/06/using-zopfli-to-optimize-png-images
+
 # PNG conversion to WebP
 #find . -type f -name "*.png" -exec cwebp -lossless {} -o {}.webp \; 
 

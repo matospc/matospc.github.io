@@ -1,9 +1,7 @@
 <div id="sidebar">
     <div>
-
-        {% include search.html %}
-
-
+        <ul id="results-container"></ul>
+        
         <h1>Articles récents</h1>
         <ul>
             {% for post in site.posts limit:10 %}
@@ -12,13 +10,6 @@
             </li>
             {% endfor %}
         </ul>
-        <h3><a href="/articles.html">Tous les articles</a></h3>
     </div>
-
-
 </div>
 
-
-<div id="social">
-    <a href="https://twitter.com/MatosPC_fr" id="twitter"></a>
-</div>

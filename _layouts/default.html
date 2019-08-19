@@ -22,19 +22,14 @@
 </head>
 
 <body>
-  <header>
-    <a href="{{ site.baseurl }}/" class="site-avatar">
-        <img src="/assets/images/title-full.png" alt="MatosPC.fr" id="logo-full" >
-        <img src="/assets/images/title.png" alt="MatosPC.fr" id="logo" >
-    </a>
-  </header>
-
+  <a href="/" id="logo" ></a> <!-- Empty link to make the site logo clickable. -->
+  
+  {% include header.html %}
   {% include sidebar.html %}
 
   {{ content }}
 
   {% include footer-scripts.html %}
-
 </body>
 
 </html>
