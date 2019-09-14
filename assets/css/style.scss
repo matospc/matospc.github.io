@@ -299,7 +299,9 @@ code {
 
 @media all and (max-width: 1000px) {
   html {
-    background: none;
+    background-size: 100%;
+    background-image: url("/assets/images/velvet-desktop-background.jpg");
+    background-position: bottom left;
   }
   
   body {
@@ -307,14 +309,19 @@ code {
     margin: 0;
 
     a#logo {
-      display: none;
+      position: static;
+      width: 100%;
+      height: 45vw;
+      background-image: url("/assets/images/neon-logo.png");
+      background-size: 100%;
+      background-color:  $background-purple;
     }
 
     div.page, div.posts {
       padding: 5px;
+      margin-bottom: 70vw;
 
       article.post {
-        padding: 0;
       }
 
       h1 {
