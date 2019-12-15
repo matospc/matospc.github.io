@@ -72,10 +72,12 @@ body {
         padding: 0;
 
         &#twitter {
+          display: none;
           background-image: url("/assets/images/icons/twitter.svg");
         }
 
         &#facebook {
+          display: none;
           background-image: url("/assets/images/icons/facebook.png");
         }
 
@@ -320,9 +322,6 @@ code {
     div.page, div.posts {
       padding: 5px;
       margin-bottom: 70vw;
-
-      article.post {
-      }
 
       h1 {
         font-size: 25px;
