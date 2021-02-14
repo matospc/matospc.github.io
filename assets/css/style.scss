@@ -10,6 +10,11 @@ $dark-blue: #3153aa;
 $light-blue: #ececff;
 $medium-blue: #4371e8;
 
+$velvet-background: "/assets/images/velvet-desktop-background.jpg";
+
+$neon-off: "/assets/images/neon-off.png";
+$neon-on: "/assets/images/neon-on.png";
+
 *, *:before, *:after {
   /* Chrome 9-, Safari 5-, iOS 4.2-, Android 3-, Blackberry 7- */
   -webkit-box-sizing: border-box; 
@@ -21,11 +26,32 @@ $medium-blue: #4371e8;
   box-sizing: border-box;
 }
 
+@keyframes neon-animation {
+  0% {background-image: url(#{$neon-on}), url(#{$velvet-background});}
+  1% {background-image: url(#{$neon-off}), url(#{$velvet-background});}
+
+  50% {background-image: url(#{$neon-on}), url(#{$velvet-background});}
+  51% {background-image: url(#{$neon-off}), url(#{$velvet-background});}
+
+  80% {background-image: url(#{$neon-on}), url(#{$velvet-background});}
+  81% {background-image: url(#{$neon-off}), url(#{$velvet-background});}
+    
+  90% {background-image: url(#{$neon-on}), url(#{$velvet-background});}
+  91% {background-image: url(#{$neon-off}), url(#{$velvet-background});}
+
+  100% {background-image: url(#{$neon-on}), url(#{$velvet-background});}
+}
+
 html {
-  background: no-repeat fixed $background-purple;
-  background-image: url("/assets/images/neon-logo.png"), url("/assets/images/velvet-desktop-background.jpg");
+  background: no-repeat fixed $background-purple;  
+  background-image: url(#{$neon-off}), url(#{$velvet-background});
+
   background-position: top left, bottom left;
   background-size: 25%;
+
+  animation: 1s neon-animation forwards;
+  animation-delay: 2s;
+  animation-iteration-count: 1;
 
   font-size: 14px;
   line-height: 1.5;
