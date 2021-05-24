@@ -12,6 +12,17 @@ Il repose sur Jekyll et GitHub Pages.
  * PNG optimisés via [ZopfliPNG](https://github.com/google/zopfli)
  * Pré-chargement des liens survolés via [Instant.page](https://instant.page/).
 
+## Installation
+
+ - Clonez le dépôt (duh!)
+ - Installer Ruby : https://rubyinstaller.org/downloads/
+ - Ouvrez une ligne de commande à la racine de votre copie locale du dépôt
+ 
+ ```
+ bundle install
+ bundle exec jekyll service
+ ```
+
 ## TO DO
 
  - Footer d'article
