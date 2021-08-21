@@ -20,7 +20,7 @@ Il repose sur Jekyll et GitHub Pages.
  
  ```
  bundle install
- bundle exec jekyll service
+ bundle exec jekyll serve
  ```
 
 ## TO DO
