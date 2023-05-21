@@ -22,19 +22,3 @@ Il repose sur Jekyll et GitHub Pages.
  bundle install
  bundle exec jekyll serve
  ```
-
-## TO DO
-
- - Footer d'article
-
-### Articles
-
- * Config PC Royal Deluxe
- * Gueguerre AMD / Intel avec historique
- * Faire valoir son droit de rétractation
-
-### DNS
-
- * DNSSEC
- * DNS menteur
-
